@@ -1,6 +1,9 @@
 {
     "name": "solarsnowfall/string-convention",
     "description": "Converts strings from and to various naming conventions.",
+    "keywords": [
+        "camelize"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
