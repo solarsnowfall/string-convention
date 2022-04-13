@@ -1,0 +1,19 @@
+{
+    "name": "solarsnowfall/string-convention",
+    "description": "Converts strings from and to various naming conventions.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Travis Miller",
+            "email": "travis@twooutrally.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Solar\\String\\": "src/"
+        }
+    }
+}
